@@ -2,19 +2,14 @@
 
 class Complex
 {
-    public double Real { get; }
-    public double Imaginary { get; }
+    public readonly double real;
+    public readonly double imaginary;
 
-    public Complex(double real, double imaginary)
-    {
-        Real = real;
-        Imaginary = imaginary;
-    }
+    public Complex(double real, double imaginary) => (this.real, this.imaginary) = (real, imaginary);
 
-    public static Complex operator +(Complex c1, Complex c2) =>
-        new Complex(c1.Real + c2.Real, c1.Imaginary + c2.Imaginary);
+    public static Complex operator +(Complex c1, Complex c2) => new Complex(c1.real + c2.real, c1.imaginary + c2.imaginary);
 
-    public void Display() => Console.WriteLine($"Result: {Real} + {Imaginary}i");
+    public void Display() => Console.WriteLine($"Result: {real} + {imaginary}i");
 }
 
 class Program
