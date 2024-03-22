@@ -20,6 +20,8 @@ class Program
         return Convert.ToDouble(Console.ReadLine());
     }
 
+    static void DisplayComplex(Complex complex, string message) => Console.WriteLine($"{message}: {complex.real} + {complex.imaginary}i");
+
     static void Main()
     {
         Console.WriteLine("Enter the first complex number:");
@@ -35,11 +37,8 @@ class Program
 
         Complex result = complex1 + complex2;
 
-        Console.WriteLine("\nFirst complex number:");
-        complex1.Display();
-        Console.WriteLine("\nSecond complex number:");
-        complex2.Display();
-        Console.WriteLine("\nResult of addition:");
-        result.Display();
+        DisplayComplex(complex1, "First complex number");
+        DisplayComplex(complex2, "Second complex number");
+        DisplayComplex(result, "Result of addition");
     }
 }

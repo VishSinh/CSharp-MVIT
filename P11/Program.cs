@@ -46,10 +46,8 @@ class Program
         Circle circle = new Circle(circleRadius);
 
         Console.WriteLine("Enter the side lengths of the triangle (separated by spaces):");
-        string[] triangleSides = Console.ReadLine().Split(' ');
-        double side1 = Convert.ToDouble(triangleSides[0]);
-        double side2 = Convert.ToDouble(triangleSides[1]);
-        double side3 = Convert.ToDouble(triangleSides[2]);
+        double[] triangleSides = Array.ConvertAll(Console.ReadLine().Split(' '), double.Parse);
+        double side1 = triangleSides[0], side2 = triangleSides[1], side3 = triangleSides[2];
         Triangle triangle = new Triangle(side1, side2, side3);
 
         Console.WriteLine($"\nCircle - Area: {circle.CalculateArea()}, Perimeter: {circle.CalculatePerimeter()}");
