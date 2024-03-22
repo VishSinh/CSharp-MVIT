@@ -65,8 +65,7 @@ class Stack
             Console.WriteLine("Stack underflow! Cannot pop more elements.");
             return -1;
         }
-        else
-            return items[top--];
+        return items[top--];
     }
 
     public void Display()

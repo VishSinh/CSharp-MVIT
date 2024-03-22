@@ -8,7 +8,7 @@ class Calculator
 
         Console.Write("Enter the operator (+, -, *, /, %): ");
         char operation = Console.ReadKey().KeyChar;
-        Console.WriteLine(); // Move to the next line
+        Console.WriteLine(); 
 
         Console.Write("Enter the first operand: ");
         double operand1 = Convert.ToDouble(Console.ReadLine());
