@@ -1,0 +1,14 @@
+/Users/vish/Projects/personal/csharp/P6/bin/Debug/net8.0/P6
+/Users/vish/Projects/personal/csharp/P6/bin/Debug/net8.0/P6.deps.json
+/Users/vish/Projects/personal/csharp/P6/bin/Debug/net8.0/P6.runtimeconfig.json
+/Users/vish/Projects/personal/csharp/P6/bin/Debug/net8.0/P6.dll
+/Users/vish/Projects/personal/csharp/P6/bin/Debug/net8.0/P6.pdb
+/Users/vish/Projects/personal/csharp/P6/obj/Debug/net8.0/P6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vish/Projects/personal/csharp/P6/obj/Debug/net8.0/P6.AssemblyInfoInputs.cache
+/Users/vish/Projects/personal/csharp/P6/obj/Debug/net8.0/P6.AssemblyInfo.cs
+/Users/vish/Projects/personal/csharp/P6/obj/Debug/net8.0/P6.csproj.CoreCompileInputs.cache
+/Users/vish/Projects/personal/csharp/P6/obj/Debug/net8.0/P6.dll
+/Users/vish/Projects/personal/csharp/P6/obj/Debug/net8.0/refint/P6.dll
+/Users/vish/Projects/personal/csharp/P6/obj/Debug/net8.0/P6.pdb
+/Users/vish/Projects/personal/csharp/P6/obj/Debug/net8.0/P6.genruntimeconfig.cache
+/Users/vish/Projects/personal/csharp/P6/obj/Debug/net8.0/ref/P6.dll

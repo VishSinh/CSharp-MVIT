@@ -1,0 +1,14 @@
+/Users/vish/Projects/personal/csharp/P9/bin/Debug/net8.0/P9
+/Users/vish/Projects/personal/csharp/P9/bin/Debug/net8.0/P9.deps.json
+/Users/vish/Projects/personal/csharp/P9/bin/Debug/net8.0/P9.runtimeconfig.json
+/Users/vish/Projects/personal/csharp/P9/bin/Debug/net8.0/P9.dll
+/Users/vish/Projects/personal/csharp/P9/bin/Debug/net8.0/P9.pdb
+/Users/vish/Projects/personal/csharp/P9/obj/Debug/net8.0/P9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vish/Projects/personal/csharp/P9/obj/Debug/net8.0/P9.AssemblyInfoInputs.cache
+/Users/vish/Projects/personal/csharp/P9/obj/Debug/net8.0/P9.AssemblyInfo.cs
+/Users/vish/Projects/personal/csharp/P9/obj/Debug/net8.0/P9.csproj.CoreCompileInputs.cache
+/Users/vish/Projects/personal/csharp/P9/obj/Debug/net8.0/P9.dll
+/Users/vish/Projects/personal/csharp/P9/obj/Debug/net8.0/refint/P9.dll
+/Users/vish/Projects/personal/csharp/P9/obj/Debug/net8.0/P9.pdb
+/Users/vish/Projects/personal/csharp/P9/obj/Debug/net8.0/P9.genruntimeconfig.cache
+/Users/vish/Projects/personal/csharp/P9/obj/Debug/net8.0/ref/P9.dll

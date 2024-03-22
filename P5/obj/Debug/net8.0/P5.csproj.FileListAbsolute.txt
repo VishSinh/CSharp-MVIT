@@ -1,0 +1,14 @@
+/Users/vish/Projects/personal/csharp/P5/bin/Debug/net8.0/P5
+/Users/vish/Projects/personal/csharp/P5/bin/Debug/net8.0/P5.deps.json
+/Users/vish/Projects/personal/csharp/P5/bin/Debug/net8.0/P5.runtimeconfig.json
+/Users/vish/Projects/personal/csharp/P5/bin/Debug/net8.0/P5.dll
+/Users/vish/Projects/personal/csharp/P5/bin/Debug/net8.0/P5.pdb
+/Users/vish/Projects/personal/csharp/P5/obj/Debug/net8.0/P5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vish/Projects/personal/csharp/P5/obj/Debug/net8.0/P5.AssemblyInfoInputs.cache
+/Users/vish/Projects/personal/csharp/P5/obj/Debug/net8.0/P5.AssemblyInfo.cs
+/Users/vish/Projects/personal/csharp/P5/obj/Debug/net8.0/P5.csproj.CoreCompileInputs.cache
+/Users/vish/Projects/personal/csharp/P5/obj/Debug/net8.0/P5.dll
+/Users/vish/Projects/personal/csharp/P5/obj/Debug/net8.0/refint/P5.dll
+/Users/vish/Projects/personal/csharp/P5/obj/Debug/net8.0/P5.pdb
+/Users/vish/Projects/personal/csharp/P5/obj/Debug/net8.0/P5.genruntimeconfig.cache
+/Users/vish/Projects/personal/csharp/P5/obj/Debug/net8.0/ref/P5.dll

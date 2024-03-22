@@ -1,0 +1,14 @@
+/Users/vish/Projects/personal/csharp/P1/bin/Debug/net8.0/P1
+/Users/vish/Projects/personal/csharp/P1/bin/Debug/net8.0/P1.deps.json
+/Users/vish/Projects/personal/csharp/P1/bin/Debug/net8.0/P1.runtimeconfig.json
+/Users/vish/Projects/personal/csharp/P1/bin/Debug/net8.0/P1.dll
+/Users/vish/Projects/personal/csharp/P1/bin/Debug/net8.0/P1.pdb
+/Users/vish/Projects/personal/csharp/P1/obj/Debug/net8.0/P1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vish/Projects/personal/csharp/P1/obj/Debug/net8.0/P1.AssemblyInfoInputs.cache
+/Users/vish/Projects/personal/csharp/P1/obj/Debug/net8.0/P1.AssemblyInfo.cs
+/Users/vish/Projects/personal/csharp/P1/obj/Debug/net8.0/P1.csproj.CoreCompileInputs.cache
+/Users/vish/Projects/personal/csharp/P1/obj/Debug/net8.0/P1.dll
+/Users/vish/Projects/personal/csharp/P1/obj/Debug/net8.0/refint/P1.dll
+/Users/vish/Projects/personal/csharp/P1/obj/Debug/net8.0/P1.pdb
+/Users/vish/Projects/personal/csharp/P1/obj/Debug/net8.0/P1.genruntimeconfig.cache
+/Users/vish/Projects/personal/csharp/P1/obj/Debug/net8.0/ref/P1.dll
